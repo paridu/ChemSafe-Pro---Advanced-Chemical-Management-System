@@ -1,0 +1,8 @@
+{
+  "name": "ChemSafe Pro - Advanced Chemical Management System",
+  "description": "A comprehensive industrial-grade chemical inventory and safety management application compliant with OSHA, ISO 14001, and GHS standards. Features real-time tracking, SDS repository, hazard classification, and AI-powered risk assessment.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
